@@ -1,4 +1,3 @@
-### Olá 👋
 # 💫 About Me:
 
 Olá me chamo Filipe André<br>Tenho 18 anos<br>Atualmente estudante de análise e desenvolvimento de sistemas<br>Estudando python<br>
