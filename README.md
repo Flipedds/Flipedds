@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🌱 Olá, me chamo Filipe André<br>🔭 Atualmente estudando Python<br>🤝 Formado Técnico em Desenvolvimento de sistemas <br>🤝 Cursando Análise e Desenvolvimento de sistemas
 
 
