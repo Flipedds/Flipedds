@@ -1,6 +1,6 @@
 ![banner](https://github.com/Flipedds/Flipedds/assets/110608654/2b8dbaac-2634-40a8-9813-e3277dae08e4)
 
-# 💫 Sobre mim:
+# 💫 Sobre mim
 👋 Olá me chamo Filipe André<br>🕶️ Tenho 19 anos <br>🖥️ Sou estudante de análise e desenvolvimento de sistemas <br>💫 Fascinado por desenvolvimento Backend <br>🌐 Atualmente estudando C# e .Net.
 <img src="https://drive.google.com/file/d/1_mPM7xAmkNAcGpjHbthEShbCnj3hqc5s/view?usp=sharing">
 
