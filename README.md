@@ -2,7 +2,6 @@
 
 # 💫 Sobre mim
 👋 Olá me chamo Filipe André<br>🕶️ Tenho 19 anos <br>🖥️ Sou estudante de análise e desenvolvimento de sistemas <br>💫 Fascinado por desenvolvimento Backend <br>🌐 Atualmente estudando C# e .Net.
-<img src="https://drive.google.com/file/d/1_mPM7xAmkNAcGpjHbthEShbCnj3hqc5s/view?usp=sharing">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Flipedds&theme=radical&no-frame=false&no-bg=false&margin-w=4)
