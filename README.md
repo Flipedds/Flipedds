@@ -1,9 +1,7 @@
 ![banner](https://github.com/Flipedds/Flipedds/assets/110608654/2b8dbaac-2634-40a8-9813-e3277dae08e4)
 
 # 💫 Sobre mim
-👋 Olá me chamo Filipe André.<br>🕶️ Tenho 19 anos. <br>🖥️ Sou estudante de análise e desenvolvimento de sistemas. <br>🌐 Atualmente estudando Java <br> 🎩Currículo : 
-[DESENVOLVEDOR BACK-END.pdf](https://github.com/Flipedds/Flipedds/files/12910454/DESENVOLVEDOR.BACK-END.pdf)
-
+👋 Olá me chamo Filipe André.<br>🕶️ Tenho 20 anos. <br>🖥️ Sou estudante de análise e desenvolvimento de sistemas. <br>🌐 Atualmente estudando Kotlin0
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Flipedds&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
