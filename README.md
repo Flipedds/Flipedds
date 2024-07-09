@@ -1,7 +1,9 @@
-![banner](https://github.com/Flipedds/Flipedds/assets/110608654/2b8dbaac-2634-40a8-9813-e3277dae08e4)
+# Hi 👋 I am Filipe!
+📖 I am a student of the 4th period of systems analysis and development, through Embarque Digital, at Senac PE college. <br>
+💼 I am currently a trainee in software quality at NTT DATA Brazil. <br>
+⭐ I have knowledge in Python, Java, Spring Boot, Selenium, Nginx, Jenkins, Docker, PostgreSQl, MongoDB.<br>
+🌐 Currently studying Kotlin. <br>
 
-# 💫 Sobre mim
-👋 Olá me chamo Filipe André.<br>🕶️ Tenho 20 anos. <br>🖥️ Sou estudante de análise e desenvolvimento de sistemas. <br>🌐 Atualmente estudando Kotlin0
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Flipedds&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
