@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%3C+Hi+%F0%9F%91%8B++My+name+is+Filipe+Andr%C3%A9+%2F%3E)](https://git.io/typing-svg)
 
-📖 I am a student of the 4th period of systems analysis and development, through Embarque Digital, at Senac PE college. <br>
+📖 I am a student of the 5th period of systems analysis and development, through Embarque Digital, at Senac PE college. <br>
 💼 I am currently a trainee in software quality at NTT DATA Brazil. <br>
 ⭐ I have knowledge in Python, Java, Spring Boot, Selenium, Nginx, Jenkins, Docker, PostgreSQl, MongoDB.<br>
 🌐 Currently studying Kotlin. <br>
