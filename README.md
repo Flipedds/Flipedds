@@ -4,7 +4,7 @@
 
 📖 I am a student of the 5th period of systems analysis and development, through Embarque Digital, at Senac PE college. <br>
 💼 I am currently a trainee in software quality at NTT DATA Brazil. <br>
-⭐ I have knowledge in Python, Java, Spring Boot, Selenium, Nginx, Jenkins, Docker, PostgreSQl, MongoDB.<br>
+⭐ I have knowledge in Python, Java, Kotlin, Spring Boot, Selenium, Nginx, Jenkins, Docker, PostgreSQl, MongoDB.<br>
 🌐 Currently studying Kotlin. <br>
 
 # 💻 Tech Stack:
